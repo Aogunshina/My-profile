@@ -1,6 +1,7 @@
 # Hi, I'm Adebayo Oyeniyi Ogunshina 👋
 
 Welcome to my GitHub profile!
+
 I'm a detail-oriented professional with over 10 years of experience in **customer service leadership, I'm an aspiring Governance, Risk, and Compliance (GRC) professional based in Northampton,United Kingdom. I work at 10alytics and am building my knowledge of cybersecurity, IT controls, risk management, and compliance assessments. I'm passionate about continuous learning and developing practical skills that help organizations manage risks, strengthen security, and maintain compliance.
 
 ## 📚 What I'm Currently Learning

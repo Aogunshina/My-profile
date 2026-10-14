@@ -1,15 +1,16 @@
 # Hi, I'm Adebayo Oyeniyi Ogunshina 👋
 
-Welcome to my GitHub profile! I'm a detail-oriented professional with over 10 years of experience in **customer service leadership compliance, governance, risk management, quality assurance, and operational management** across banking, healthcare, and logistics. I'm passionate about using technology, data, and effective processes to improve compliance, manage risks, and support better business decisions. I'm currently developing my technical skills to transition further into IT, Governance, Risk and Compliance (GRC), and data analysis.
+Welcome to my GitHub profile!
+I'm a detail-oriented professional with over 10 years of experience in **customer service leadership, I'm an aspiring Governance, Risk, and Compliance (GRC) professional based in Northampton,United Kingdom. I work at 10alytics and am building my knowledge of cybersecurity, IT controls, risk management, and compliance assessments. I'm passionate about continuous learning and developing practical skills that help organizations manage risks, strengthen security, and maintain compliance.
 
 ## 📚 What I'm Currently Learning
 
 - **Power BI** – Developing skills in data visualisation and dashboard creation.
 - **SQL** – Learning how to query, analyse, and manage structured data.
-- **Git and GitHub** – Building practical projects and learning version control.
 - **GRC Tools and Frameworks** – Exploring risk management platforms, internal controls, and ISO 27001 principles.
 - **SharePoint** – Learning document management and collaboration.
 - **Data Analysis** – Improving my ability to turn data into meaningful insights using Microsoft Excel.
+- 🌐 Cisco Networking — Building my understanding of networking fundamentals and network infrastructure.
 
 ## 🛠️ My Skills and Tools
 

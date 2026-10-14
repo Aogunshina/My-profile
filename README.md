@@ -35,7 +35,7 @@ I have worked across banking, logistics, and healthcare, and each industry has s
 ## 📫 How to Reach Me
 - **Location:** Kettering, Northamptonshire, United Kingdom
 - **GitHub:** You're already here! Feel free to explore my repositories and projects.
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:** www.linkedin.com/in/adebayo-product-541689282
 
 ---
 
